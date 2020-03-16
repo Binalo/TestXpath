@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lophoc>
+  <sinhvien id="s1">
+    <ten>Bin</ten>
+    <lop>E</lop>
+    <tuoi>20</tuoi>
+  </sinhvien>
+
+  <sinhvien id="s2">
+    <ten>Miu</ten>
+    <lop>F</lop>
+    <tuoi>22</tuoi>
+  </sinhvien>
+
+  <sinhvien id="s3">
+    <ten>Sky</ten>
+    <lop>G</lop>
+    <tuoi>22</tuoi>
+  </sinhvien>
+
+  <sinhvien id="s4">
+    <ten>Hai</ten>
+    <lop>H</lop>
+    <tuoi>23</tuoi>
+  </sinhvien>
+</lophoc>
